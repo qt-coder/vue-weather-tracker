@@ -2,6 +2,7 @@
 
 ## A simple weather tracker using OpenWeatherMap's API
 
+## Check it out [live](https://qtweather.netlify.app)
 
 ## Project setup
 ```
